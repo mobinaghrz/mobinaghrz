@@ -1,15 +1,15 @@
-# Hi there, I'm Mobina! 👋
+# Hi there, I'm Mobina! 
 
 I'm a passionate developer who loves building cool projects and solving problems. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, Java
-- **Frameworks**: React, Node.js
+- **Languages**: Python, C++,Rust, Java
+- **Frameworks**: Dgango,
 - **Tools**: Git, Docker, VS Code
 - **Databases**: MySQL, MongoDB
 
 ## 🌱 I’m currently learning
-- Machine Learning
+- Machine Learning (Stanford University Certificate)
 - Cloud Computing (AWS, GCP)
 
 ## 🚀 My Projects
@@ -17,9 +17,9 @@ I'm a passionate developer who loves building cool projects and solving problems
 - [Project 2](https://github.com/mobinaghrz/project2): Another cool project you've worked on.
 
 ## 📫 How to reach me
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: Mobina12412@gmail.com
+- **LinkedIn**: [Mobina Gholamrezaei](https://www.linkedin.com/in/mobina-gholamrezaei)
+- **Twitter**: [Her](https://twitter.com/ACatinPurple)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinaghrz&show_icons=true&theme=radical)
