@@ -23,7 +23,6 @@ I'm a passionate developer who loves building cool projects and solving problems
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinaghrz&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinaghrz&layout=compact&theme=radical)
 
 ---
