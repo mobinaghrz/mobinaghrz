@@ -13,8 +13,8 @@ I'm a passionate developer who loves building cool projects and solving problems
 - Cloud Computing (AWS, GCP)
 
 ## 🚀 My Projects
-- [Project 1](https://github.com/mobinaghrz/project1): A brief description of your project.
-- [Project 2](https://github.com/mobinaghrz/project2): Another cool project you've worked on.
+- [RecSys Collab Filtering](https://github.com/mobinaghrz/RecSys-Collab-Filtering): Recommendation System using Collaborative Filtering in C++.
+- [DataSculptor](https://github.com/mobinaghrz/DataSculptor): DataSculptor: Intelligent Data Compression Using Huffman Encoding and Machine Learning.
 
 ## 📫 How to reach me
 - **Email**: Mobina12412@gmail.com
