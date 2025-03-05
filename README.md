@@ -5,7 +5,7 @@ I'm a passionate developer who loves building cool projects and solving problems
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C++,Rust, Java
 - **Frameworks**: Dgango,
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, VS Code, Linux Command Line 
 - **Databases**: MySQL, MongoDB
 
 ## 🌱 I’m currently learning
