@@ -2,6 +2,8 @@
 
 I'm a passionate developer who loves building cool projects and solving problems. Welcome to my GitHub profile!
 
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/highlights)
+
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C++,Rust, Java
 - **Frameworks**: Dgango,
@@ -15,6 +17,9 @@ I'm a passionate developer who loves building cool projects and solving problems
 ## 🚀 My Projects
 - [RecSys Collab Filtering](https://github.com/mobinaghrz/RecSys-Collab-Filtering): Recommendation System using Collaborative Filtering in C++.
 - [DataSculptor](https://github.com/mobinaghrz/DataSculptor): DataSculptor: Intelligent Data Compression Using Huffman Encoding and Machine Learning.
+-
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/contributions)
+-
 
 ## 📫 How to reach me
 - **Email**: Mobina12412@gmail.com
@@ -26,9 +31,6 @@ I'm a passionate developer who loves building cool projects and solving problems
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinaghrz&layout=compact&theme=radical)
 
 ---
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/contributions)
-
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/highlights)
 
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/archtype)
 
