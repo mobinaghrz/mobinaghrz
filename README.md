@@ -26,5 +26,13 @@ I'm a passionate developer who loves building cool projects and solving problems
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinaghrz&layout=compact&theme=radical)
 
 ---
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/contributions)
 
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/highlights)
+
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/archtype)
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/quirk)
+
+---
 ⭐️ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
