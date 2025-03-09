@@ -31,6 +31,7 @@ I'm a passionate developer who loves building cool projects and solving problems
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinaghrz&layout=compact&theme=radical)
 
 ---
+## 👩🏼‍💻 My Archetypes
 
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/archtype)
 
