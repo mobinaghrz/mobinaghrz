@@ -2,7 +2,6 @@
 
 I'm a passionate developer who loves building cool projects and solving problems. Welcome to my GitHub profile!
 
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/highlights)
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C++,Rust, Java
@@ -30,12 +29,6 @@ I'm a passionate developer who loves building cool projects and solving problems
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinaghrz&show_icons=true&theme=radical)
 
 ![Mobinaghrz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mobinaghrz&theme=dark&hide_border=false)
----
-## 👩🏼‍💻 My Archetypes
-
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/archtype)
-
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/Mobinaghrz/quirk)
 
 ---
 ⭐️ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
