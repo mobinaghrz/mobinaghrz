@@ -4,11 +4,11 @@ I'm a passionate developer who loves building cool projects and solving problems
 
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, C++,Rust, Java
-- **Frameworks**: Dgango,
-- **Tools**: Git, Docker, VS Code, Linux Command Line 
+- **Languages**: C++, Python, Rust, Java, TypeScript, Go, C, Objective-C, Objective-C++
+- **Frameworks**: Dgango, OpenCV
+- **Tools**: Git, Docker, VS Code, Linux Command Line, Visual Studio, neoVim
 - **Databases**: MySQL, MongoDB
-
+- **Other**: Linux, Arduino, Raspberry PI
 ## 🌱 I’m currently learning
 - Machine Learning (Stanford University Certificate)
 - Cloud Computing (AWS, GCP)
