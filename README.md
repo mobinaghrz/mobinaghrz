@@ -17,7 +17,7 @@ I'm a passionate developer who loves building cool projects and solving problems
 - [RecSys Collab Filtering](https://github.com/mobinaghrz/RecSys-Collab-Filtering): Recommendation System using Collaborative Filtering in C++.
 - [DataSculptor](https://github.com/mobinaghrz/DataSculptor): DataSculptor: Intelligent Data Compression Using Huffman Encoding and Machine Learning.
 
-![Mobinaghrz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobinaghrz&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![mobinaghrz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinaghrz&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
 -
 
 ## 📫 How to reach me
@@ -26,9 +26,9 @@ I'm a passionate developer who loves building cool projects and solving problems
 - **Twitter**: [Her](https://twitter.com/ACatinPurple)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinaghrz&show_icons=true&theme=radical)
+![mobinaghrz's Stats](https://github-readme-stats.vercel.app/api?username=mobinaghrz&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 
-![Mobinaghrz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mobinaghrz&theme=dark&hide_border=false)
+![mobinaghrz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobinaghrz&theme=shades-of-purple&hide_border=false)
 
 ---
 ⭐️ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
