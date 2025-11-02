@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://media.tenor.com/3vcj3xtK1Z0AAAAi/totoro-anime.gif" width="500"/> </div>
+
 # Hi there, I'm Mobina! 
 
 I'm a passionate developer who loves building cool projects and solving problems. Welcome to my GitHub profile!
