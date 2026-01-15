@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://media.tenor.com/3vcj3xtK1Z0AAAAi/totoro-anime.gif" width="500"/> </div>
 
-# Hi, I'm Mobina 👋
+# Hey, I'm Mobina 
 
 ```
    C++/Rust Developer • Systems Programmer • Educator • Cat
