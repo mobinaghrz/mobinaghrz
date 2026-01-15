@@ -3,17 +3,17 @@
 # Hi, I'm Mobina 👋
 
 ```
-   C++/Rust Developer • Systems Programmer • Educator • Cat Enthusiast 🐱
+   C++/Rust Developer • Systems Programmer • Educator • Cat
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=6+years+of+C%2B%2B+experience;5+years+of+Python+mastery;Building+high-performance+systems;Teaching+%26+mentoring+developers;York+University+CS+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=C%2B%2B%2FRust+Developer;low-level+systems+programming;Building+high-performance+systems;CS+Student)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mobina_Gholamrezaei-8B5CF6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobina-gholamrezaei)
 [![Email](https://img.shields.io/badge/Email-Mobina12412%40gmail.com-A78BFA?style=flat-square&logo=gmail&logoColor=white)](mailto:Mobina12412@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%40ACatinPurple-C084FC?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ACatinPurple)
 [![Location](https://img.shields.io/badge/📍-Toronto%2C_Canada-8B5CF6?style=flat-square)](https://www.google.com/maps/place/Toronto)
 
-## 👩‍💻 About Me
+## Me
 
 **Computer Science student at York University** and I code I guess? I'm a passionate developer who loves building cool projects and solving problems. (They say)
 
@@ -186,19 +186,6 @@ class DecisionTree {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinaghrz&theme=react-dark&hide_border=true&area=true&color=A78BFA&point=8B5CF6&custom_title=Contribution%20Timeline)
 
-## 💼 Experience
-
-**Computer Technology Instructor** @ LogicFusion Limited • *Jan 2025 - Present*  
-Teaching Python, C++, and Web Development to aspiring developers
-
-**Teaching Assistant** @ SRBIAU • *Feb 2023 - Jan 2024*  
-Data Structures, Algorithms, OOP • Improved class performance by 25%
-
-**CEO Assistant** @ Emorex Company • *Jan 2023 - Jul 2024*  
-Increased team productivity by 20% through workflow optimization
-
-**Freelance Developer** @ Parscoders.com • *Jan 2020 - Jan 2024*  
-Full-stack web development and custom software solutions
 
 ## 🌱 Currently Learning
 
@@ -236,22 +223,8 @@ namespace CurrentProjects {
     };
 }
 
-## 🏆 Achievements
 
-- 🥇 **1 idea 1 world Gold Medal** - Innovation Award (2021)
-- 📜 **Machine Learning Certification** - Stanford/Coursera (In Progress)
-- 📈 **25% improvement** in student performance as TA
-- 🚀 **20% productivity boost** as CEO Assistant
 
-## 📫 Let's Connect
-
-I love connecting with fellow developers! Whether you want to discuss C++, Rust, distributed systems, or just share cat memes, feel free to reach out.
-
-**Email:** [Mobina12412@gmail.com](mailto:Mobina12412@gmail.com)  
-**LinkedIn:** [Mobina Gholamrezaei](https://www.linkedin.com/in/mobina-gholamrezaei)  
-**Twitter:** [@ACatinPurple](https://twitter.com/ACatinPurple)
-
----
 ```
 
 <div align="center">
