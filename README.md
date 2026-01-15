@@ -178,17 +178,9 @@ class DecisionTree {
 
 <div align="center">
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mobinaghrz&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobinaghrz&theme=shades-of-purple&hide_border=true)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobinaghrz&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mobinaghrz&theme=shades-of-purple&hide_border=false)
 
 </div>
 
