@@ -178,10 +178,9 @@ class DecisionTree {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mobinaghrz&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobinaghrz&theme=shades-of-purple&hide_border=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobinaghrz&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinaghrz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=a78bfa&title_color=a78bfa)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobinaghrz&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinaghrz&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=a78bfa&icon_color=a78bfa&layout=compact&count_private=true&include_all_commits=true)
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinaghrz&theme=react-dark&hide_border=true&area=true&color=A78BFA&point=8B5CF6&custom_title=Contribution%20Timeline)
