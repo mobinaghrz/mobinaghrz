@@ -231,7 +231,7 @@ namespace CurrentProjects {
 ```
   /\_/\  
  ( o.o ) 
-  > ♡ <
+> ♡ <
 "Commitment issues with man, never my Git"
 ```
 
