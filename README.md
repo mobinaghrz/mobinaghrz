@@ -232,7 +232,7 @@ namespace CurrentProjects {
   /\_/\  
  ( o.o ) 
   > ♡ <
-"My code has better exception handling than I do."
+"Commitment issues with man, never my Git"
 ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mobinaghrz&color=blueviolet&style=flat-square)](https://github.com/mobinaghrz)
