@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://media.tenor.com/3vcj3xtK1Z0AAAAi/totoro-anime.gif" width="500"/> </div>
+<div align="center"> <img src="https://media.tenor.com/3vcj3xtK1Z0AAAAi/totoro-anime.gif" width="1000"/> </div>
 
 # Hey, I'm Mobina 
 
