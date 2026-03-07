@@ -3,7 +3,7 @@
 # Hey, I'm Mobina 
 
 ```
-   C++/Rust Developer • Systems Programmer • Educator • Cat
+   C++/Rust Developer • Systems Programmer • Student • Cat
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=C%2B%2B%2FRust+Developer;low-level+systems+programming;Building+high-performance+systems;CS+Student)](https://git.io/typing-svg)
